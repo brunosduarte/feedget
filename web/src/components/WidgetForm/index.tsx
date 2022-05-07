@@ -63,11 +63,9 @@ export function WidgetForm() {
            )
            } 
 
-            
-
-            <footer className="text-xs text-neutral-400">
-                Feito por <a className="underline underline-offset-2" href="">BDSystems 2022</a>
-            </footer>
+            {/* <footer className="text-xs text-neutral-400">
+                Feito por <a className="underline underline-offset-2" href="">RocketSeat</a>
+            </footer> */}
         </div>
     )
 }
