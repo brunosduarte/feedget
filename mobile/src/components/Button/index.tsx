@@ -5,7 +5,7 @@ import {
     TouchableOpacity,
     TouchableOpacityProps,
     ActivityIndicator
- } from 'react-native';
+} from 'react-native';
 
 import { styles } from './styles';
 
@@ -14,11 +14,11 @@ interface Props extends TouchableOpacityProps {
 }
 
 export function Button({ isLoading, ...rest }: Props) {
-  return (
-    <TouchableOpacity
-     style={styles.container}
-     {...rest}     
-     >
+    return (
+        <TouchableOpacity
+            style={styles.container}
+            {...rest}     
+        >
         {
             isLoading
             ?
@@ -30,6 +30,6 @@ export function Button({ isLoading, ...rest }: Props) {
                 Enviar Feedback
             </Text>
         }
-    </TouchableOpacity>
-  );
+        </TouchableOpacity>
+    );
 }

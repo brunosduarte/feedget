@@ -5,7 +5,7 @@ import {
     Image,
     Text,
     TouchableOpacity
- } from 'react-native';
+} from 'react-native';
 import { ArrowLeft } from 'phosphor-react-native';
 
 import { FeedbackType } from '../../components/Widget';
