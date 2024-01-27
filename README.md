@@ -1,20 +1,18 @@
-<h1 align="center"> FeedGet </h1>
+<h1 align="center">FeedGet</h1>
 
 <br />
 <p align="center"> 
-   <img src="https://img.shields.io/github/languages/count/brunosduarte/nlw-return" alt="Languages">
-	<img src="https://img.shields.io/github/repo-size/brunosduarte/nlw-rerturn " alt="Repo Size"> 
-  	<a href="https://github.com/brunosduarte/nlw-return/commits/master"> 
-   		<img src="https://img.shields.io/github/last-commit/brunosduarte/nlw-return" alt="Last Commit"> 
+   <img src="https://img.shields.io/github/languages/count/brunosduarte/feedget" alt="Languages">
+	<img src="https://img.shields.io/github/repo-size/brunosduarte/feedget " alt="Repo Size"> 
+  	<a href="https://github.com/brunosduarte/feedget/commits/master"> 
+   		<img src="https://img.shields.io/github/last-commit/brunosduarte/feedget" alt="Last Commit"> 
  	</a> 
   	<a href="https://opensource.org/licenses/MIT"> 
    		<img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT"> 
   	</a> 
 </p>
 
-
 ## 🗂 Contents
-
 
 - 📋 [Project](#-project)
   - 🚀 [Technologies](#-technologies)
@@ -26,7 +24,7 @@
 
 ## 📋 Project
 
-It is a full stack project developing web and mobile version of the app. The Feedback Widget (FeedGet) is an modular widget that you can put inside any other application, where is possible to send an email with a feedback message.
+It is a full-stack project developing web and mobile versions of the app. The Feedback Widget (FeedGet) is a modular widget that you can put inside any other application, where is possible to send an email with a feedback message.
 
 
 ### 🚀 Technologies
