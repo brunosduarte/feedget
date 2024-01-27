@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="nlw-return" src=".github/logo.svg" width="15%">
+  <img alt="Feedget" src=".github/logo.svg" width="15%">
 </p>
    <h1 align="center"> FeedGet </h1>
  </p>
@@ -51,7 +51,7 @@ This is a full stack project, having desktop and mobile version of the app. The 
 ##### 💻 frontend:
 
 <p align="center"> 
-  <img alt="nlw-return" src=".github/web.png" width="100%">
+  <img alt="Feedget" src=".github/coverb.png" width="100%">
 </p>
 
 ## 📦 Instalation
