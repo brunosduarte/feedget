@@ -29,18 +29,18 @@ It is a full-stack project developing web and mobile versions of the app. The Fe
 
 ### 🚀 Technologies
 
-- [Expo][expo]
-- [Jest][jest]
-- [NodeMailer][nodemailer]
-- [NodeJS][nodejs]
-- [ExpressJS][expressjs]
-- [Prisma][prisma]
-- [TypeScript][typescript]
-- [Axios][axios]
-- [Html2Canvas][html2canvas]
-- [TailwindCss][tailwindcss]
-- [HeadlessUI][headlessui]
-
+[![React.js](https://img.shields.io/badge/React.js-gray?logo=React)](https://react.dev)
+[![React Native](https://img.shields.io/badge/React_Native-gray?logo=React&logoColor=purple)](https://react.dev)
+[![Node.js](https://img.shields.io/badge/Node.js-gray?logo=Node.js)](https://nodejs.org)
+[![Expo](https://img.shields.io/badge/Expo-gray?logo=Expo)](https://expo.dev)
+[![Jest](https://img.shields.io/badge/Jest-gray?logo=Jest)](https://jestjs.io)
+[![NodeMailer](https://img.shields.io/badge/NodeMailer-gray?logo=Minutemailer)](https://nodemailer.com)
+[![Prisma](https://img.shields.io/badge/Prisma-gray?logo=Prisma)](https://prisma.io)
+[![TypeScript](https://img.shields.io/badge/TypeScript-gray?logo=TypeScript)](https://typescriptlang.org)
+[![Axios](https://img.shields.io/badge/Axios-gray?logo=Axios)](https://axios-http.com)
+[![HTML2Canvas](https://img.shields.io/badge/HTML2Canvas-gray?logo=PlayCanvas)](https://html2canvas.hertzen.com)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-gray?logo=TailwindCSS)](https://tailwindcss.com)
+[![Headless Ui](https://img.shields.io/badge/Headless_Ui-gray?logo=Headless+UI)](https://headlessui.com)
 
 ## 📷 Preview
 
@@ -112,17 +112,10 @@ This project is under license. [MIT](LICENSE).
 
 by [**Bruno Duarte**](https://www.linkedin.com/in/brunosduarte/) 🚀
 
-
+[git]: https://git-scm.com
 [nodejs]: https://nodejs.org/
 [pnpm]: https://pnpm.io/pt/
 [npm]: https://www.npmjs.com/
-[typescript]: https://www.typescriptlang.org/
-[tailwindcss]: https://www.tailwindcss.com/
-[prisma]: https://www.prisma.io/
-[axios]: https://www.axios-http.com
-[jest]: https://jestjs.io
-[nodemailer]: https://nodemailer.com
-[expo]: https://expo.dev
 [expressjs]: https://expressjs.com
 [html2canvas]: https://html2canvas.hertzen
 [headlessui]: https://headlessui.com
