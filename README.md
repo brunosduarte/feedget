@@ -61,12 +61,7 @@ To clone and run this application, you will need [Git][git], [NodeJS v18.17.1][n
 
 ```bash
 # Cloning repo
-$ git clone https://github.com/brunosduarte/nlw-ia.git nlw-ia
-```
-
-```bash
-# Installing pnpm
-$ npm install -g pnpm
+$ git clone https://github.com/brunosduarte/feedget.git feedget
 ```
 
 ```bash
@@ -76,20 +71,10 @@ $ npm install -g pnpm
 $ cd server
 
 # Install the dependencies
-$ pnpm i
-
-# Create migrations
-$ pnpm prisma migrate dev
-
-
-# Note: After running the command above, you will be prompted to enter the migration name. You can use the following name: "create videos and prompts"
-
-----------------------------------------------------------------------------------------------------------------------------------------
-# Before running the API, change the .env.example to .env and add your OpenAI API key to the .env file
-----------------------------------------------------------------------------------------------------------------------------------------
+$ npm install
 
 # Run the API
-$ pnpm run dev
+$ npm run dev
 
 # Note: After running the command above, the API will be available at http://localhost:3333
 
@@ -102,10 +87,23 @@ $ pnpm run dev
 $ cd web
 
 # Install dependencies
-$ pnpm i
+$ npm install
 
 # Execute
-$ pnpm run dev
+$ npm run dev
+```
+
+```bash
+# Mobile
+
+# Got to the repository
+$ cd mobile
+
+# Install dependencies
+$ npm install
+
+# Execute
+$ npm run start
 ```
 
 
