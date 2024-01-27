@@ -29,11 +29,12 @@
 
 ## 📋 Project
 
-This is a full stack project, having desktop and mobile version of the app. The Feedback Widget (FeedGet) is an modular widget where is possible to send an email with a feedback message.
+It is a full stack project developing web and mobile version of the app. The Feedback Widget (FeedGet) is an modular widget that you can put inside any other application, where is possible to send an email with a feedback message.
 
 
 ### 🚀 Technologies
 
+- [Expo][expo]
 - [Jest][jest]
 - [NodeMailer][nodemailer]
 - [NodeJS][nodejs]
@@ -126,6 +127,7 @@ by [**Bruno Duarte**](https://www.linkedin.com/in/brunosduarte/) 🚀
 [axios]: https://www.axios-http.com
 [jest]: https://jestjs.io
 [nodemailer]: https://nodemailer.com
+[expo]: https://expo.dev
 [expressjs]: https://expressjs.com
 [html2canvas]: https://html2canvas.hertzen
 [headlessui]: https://headlessui.com
