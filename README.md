@@ -1,8 +1,5 @@
-<p align="center">
-  <img alt="Feedget" src=".github/logo.svg" width="15%">
-</p>
-   <h1 align="center"> FeedGet </h1>
- </p>
+<h1 align="center"> FeedGet </h1>
+
 <br />
 <p align="center"> 
    <img src="https://img.shields.io/github/languages/count/brunosduarte/nlw-return" alt="Languages">
@@ -52,7 +49,7 @@ It is a full stack project developing web and mobile version of the app. The Fee
 ##### 💻 frontend:
 
 <p align="center"> 
-  <img alt="Feedget" src=".github/coverb.png" width="100%">
+  <img alt="Feedget" src="cover.png" width="100%">
 </p>
 
 ## 📦 Instalation
