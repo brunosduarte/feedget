@@ -131,3 +131,4 @@ by [**Bruno Duarte**](https://www.linkedin.com/in/brunosduarte/) 🚀
 [expressjs]: https://expressjs.com
 [html2canvas]: https://html2canvas.hertzen
 [headlessui]: https://headlessui.com
+[git]: https://git-scm.com
