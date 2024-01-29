@@ -24,7 +24,7 @@
 
 ## 📋 Project
 
-FeedGet is a modular widget that you can put inside any other application, where is possible to send an email with a feedback message. It is a full-stack project developing web and mobile versions of the app. 
+FeedGet is a component widget that you can put inside any other application, where is possible to send an email with a feedback message. It is a full-stack project developing web and mobile versions of the app. 
 
 
 ### 🚀 Technologies
