@@ -1,5 +1,5 @@
-import { StyleSheet } from 'react-native';
-import { theme } from '../../theme';
+import { StyleSheet } from 'react-native'
+import { theme } from '../../theme'
 
 export const styles = StyleSheet.create({
   container: {
@@ -9,13 +9,13 @@ export const styles = StyleSheet.create({
     width: 36,
     height: 36,
     marginTop: 42,
-    marginBottom: 10
+    marginBottom: 10,
   },
   title: {
     fontSize: 20,
     marginBottom: 24,
     fontFamily: theme.fonts.medium,
-    color: theme.colors.text_primary
+    color: theme.colors.text_primary,
   },
   button: {
     height: 40,
@@ -29,6 +29,6 @@ export const styles = StyleSheet.create({
   buttonTitle: {
     fontSize: 14,
     fontFamily: theme.fonts.medium,
-    color: theme.colors.text_primary
-  }
-});
+    color: theme.colors.text_primary,
+  },
+})

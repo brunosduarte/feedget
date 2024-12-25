@@ -7,7 +7,7 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-model Feedack {
+model Feedback {
   id String @id @default(uuid())
 
   type       String

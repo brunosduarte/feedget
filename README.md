@@ -17,7 +17,7 @@
 - 📋 [Project](#-project)
   - 🚀 [Technologies](#-technologies)
   - 📷 [Preview](#-preview)
-- 📦 [Instalation](#-instalation)
+- 📦 [Installation](#-instalation)
 - ⚖️ [License](#%EF%B8%8F-license)
 - 📫 [Contact](#-contact)
 
@@ -50,7 +50,7 @@ FeedGet is a component widget that you can put inside any other application, whe
   <img alt="Feedget" src="cover.png" width="100%">
 </p>
 
-## 📦 Instalation
+## 📦 Installation
 
 To clone and run this application, you will need [Git][git], [NodeJS v18.17.1][nodejs] or higher + [npm v9.17.1][npm] or higher, and [PNPm 8.7.5][pnpm] installed on your computer. In your terminal, run:
 

@@ -10,11 +10,11 @@ export const theme = {
     text_secondary: '#A1A1AA',
     text_on_brand_color: '#FFFFFF',
 
-    stroke: '#52525B'
+    stroke: '#52525B',
   },
 
   fonts: {
     regular: 'Inter_400Regular',
     medium: 'Inter_500Medium',
-  }
-};
+  },
+}
